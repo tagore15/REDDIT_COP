@@ -11,7 +11,7 @@ I was able to run engine on local host, but could not upload it on server seemin
 For now, user would need to run python script search.py to interact with app. 
 
 
-## search.py
+## search.py (use python 2.7)
 This script create index for search engine on the basis of title fields in csv file. Prediction API could not be integerated till now due to lack of stand-alone pandas installation on my system. Model is created in ipython notebook. This scipt also provides interface to user for entering query.   
 
 ## model.ipynb
